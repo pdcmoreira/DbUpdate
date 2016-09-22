@@ -1,4 +1,4 @@
-SQLServer simple migration tool
+#SQLServer simple migration tool
 
 ## Getting Started
 
