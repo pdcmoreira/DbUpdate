@@ -26,3 +26,9 @@ private void RunMigrations()
   System.Diagnostics.Process.Start("DbUpdate.exe", arguments).WaitForExit();
 }
 ```
+
+## DbUp
+
+This tool is basically a wrapper around DbUp.  
+Please, check it out:  
+https://github.com/DbUp/DbUp
