@@ -15,7 +15,7 @@
 ### Run it when your application server starts up
 
 C# example:
-```csharp
+```cs
 private void RunMigrations()
 {
   var migrationsFolder = @"Database\Migrations";
